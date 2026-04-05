@@ -9,3 +9,4 @@ contract AddressStorage {
         user = _addr;
     }
 }
+Add require checks
