@@ -10,3 +10,4 @@ contract AddressStorage {
     }
 }
 Add require checks
+Improve security checks
