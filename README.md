@@ -12,3 +12,4 @@ contract AddressStorage {
 Add require checks
 Improve security checks
 Adjust constructor logic
+Add input validation
