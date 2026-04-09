@@ -13,3 +13,4 @@ Add require checks
 Improve security checks
 Adjust constructor logic
 Add input validation
+Simplify contract flow
